@@ -1,0 +1,15 @@
+*:not(.output) {
+    font-family: 'Rubik', sans-serif !important;
+}
+
+button {
+    font-weight: bold !important;
+}
+
+.output {
+    display: inline;
+    padding: 3px;
+    background-color: #111;
+    color: #fff;
+    font-family: monospace;
+}
